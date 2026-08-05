@@ -63,7 +63,7 @@ To ensure seamless navigation for non-technical stakeholders, all dashboards fea
 * Direct Support Integration: Embedded support panels with actionable contact links (analytics-support@company.com') built directly into the dashboard canvasses for instant technical escalation.
 
 
-#### SQL Queries & Relational Data Analytics
+#### 4. SQL Queries & Relational Data Analytics
 * Focus: Database querying, KPI aggregation, and relational table analysis.
 * Unique Queries / Calculations:
   * Core Metrics: Extracted total volume for orders, customers, sellers, product categories, and average freight costs.
